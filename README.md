@@ -3,7 +3,7 @@ PORTFOLIO-WEBSITE
 Name : Narayan Fati Gawas
 
 ## Description ##
-My first Task is creating portfolio website with advance animation.I write a code in html ,css and javasrcipt language.and create my website .I take online referencess also.
+My first Task is creating portfolio website with advance animation.I write a code in html ,css and javasrcipt language.and create my website .
 
 ## output ##
 
